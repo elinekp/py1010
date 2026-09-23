@@ -48,3 +48,4 @@ print('Årlige utgifter for elbil: ', pris_elbil, 'kr')
 print('Årlige utgifter for bensinbil: ', pris_bensinbil, 'kr')
 
 print('Årlig kostnadsdifferanse: ', pris_bensinbil - pris_elbil, 'kr')
+
